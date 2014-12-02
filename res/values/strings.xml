@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LyricsSong</string>
+    <string name="storage_lyrics">letras almacenadas</string>
+    <string name="all_lyrics">Todas las letras</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="getLyrics">Obtener Letras</string>
+    
+    <!-- mssg Async -->
+    <string name="mssg_loading_lyrics">Cargando lyrics ..</string>
+    <string name="mssg_taskcompleted">Tarea completada</string>
+
+    
+    <!-- mssg ERROR -->
+    <string name="error_cantgetlyrics">Error en la obtencion de lyrics</string>
+    
+</resources>

@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="cl.framirez.lyricssong.LyricsSongMainActivity$PlaceholderFragment" >
+
+    <TextView
+        android:id="@+id/section_label2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:text="ADIOS"/>
+    <Button 
+        android:id="@+id/btn_adios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" 
+        android:text="ADIOS"
+        />
+    
+    <ListView
+        android:id="@+id/list_lyrics2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout>
